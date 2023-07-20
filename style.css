@@ -1,0 +1,220 @@
+/*================ common style start ===================*/
+	*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+	.container{
+	width:100%;
+	margin:0 auto;
+	}
+	.col-1{
+    width: 8.33%;
+    padding: 0 15px;
+}
+.col-2{
+    width: 16.66%;
+    padding: 0 15px;
+}
+.col-3{
+    width: 25%;
+    padding: 0 15px;
+}
+.col-4{
+    width: 33.33%;
+    padding: 0 15px;
+}
+.col-5{
+    width: 41.66%;
+    padding: 0 15px;
+}
+.col-6{
+    width: 50%;
+    padding: 0 15px;
+}
+.col-7{
+    width: 58.33%;
+    padding: 0 15px;
+}
+.col-8{
+    width: 66.66%;
+    padding: 0 15px;
+}
+.col-9{
+    width: 75%;
+    padding: 0 15px;
+}
+.col-10{
+    width: 83.33%;
+    padding: 0 15px;
+}
+.col-11{
+    width: 91.66%;
+    padding: 0 15px;
+}
+.col-12{
+    width: 100%;
+    padding: 0 15px;
+}
+ /*================ common style end ===================*/
+ /*================ Header style start =================*/
+ .container{
+	 width:90%;
+	 margin:0 auto;
+ }
+ .row{
+	 display:flex;
+	 flex-wrap:wrap;
+ }
+ .justify-content{
+	 justify-content:space-between;
+ }
+ .mentor{
+	 background-color:lightgreen;
+	 height:50px;
+ }
+ .nav{
+	background-color:lightgray;
+	  height:50px;
+ }
+ /*================ Home style start =================*/ 
+ .Home-sec{
+	 background-color:#999;
+	 height:500px;
+ }
+ .Home-content{
+	 
+ }
+  /* ================ About style start ================= */
+.About-sec{
+	padding:50px 0;
+}
+.justify-content{
+	justify-content:space-evenly;
+}
+.about-content{
+	background-color:lightgreen;
+	height:500px;
+}
+.about-image{
+	background-color:gray;
+	height:500px;
+}
+/* ================ score style start =================== */
+.score-sec{
+	padding:50px 0;
+	background-color:#999;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.score-content{
+	background-color:lightgreen;
+	height:200px;
+}
+/* ================Choose style start =================== */
+.choose-sec{
+	padding:50px 0;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.choose-content{
+	background-color:lightgreen;
+	height:400px;
+}
+.choose-content1{
+	background-color:lightgreen;
+	height:300px;
+	margin-top:50px;
+}
+/* ================lorem style start =================== */
+.lorem-sec{
+	padding:50px 0;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.lorem-content{
+	background-color:lightgreen;
+	height:50px;
+	margin-bottom:50px;
+}
+/* ================Courses style start =================== */
+.courses-sec{
+	padding:50px 0;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+.justify-content{
+	justify-content:space-evenly;
+}
+.courses-top{
+	background-color:#999;
+	height:100px;
+}
+.courses-content{
+	background-color:lightgreen;
+	height:340px;
+}
+/* ================team style start =================== */
+.team-sec{
+	padding:50px 0;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.team-content{
+	background-color:lightgreen;
+	height:350px;
+}
+/* ================end style start =================== */
+.end-sec{
+	padding:50px 0;
+	background-color:lightgray;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.end-content{
+	background-color:lightgreen;
+	height:300px;
+}
+.end-content1{
+	background-color:lightgreen;
+	height:300px;
+}
+.end-content2{
+	background-color:lightgreen;
+	height:300px;
+}
+/* ================finish style start =================== */
+.finish-sec{
+	padding:50px 0;
+	background-color:#999;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.finish-content{
+	background-color:lightgreen;
+	height:100px;
+}
+.finish-content1{
+	background-color:lightgreen;
+	height:50px;
+}
